@@ -41,7 +41,8 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
+        <div align= "center">  </div> 
+        
 # 🧠 주요 프로젝트
 
 </div>
