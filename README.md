@@ -43,3 +43,12 @@
     </div>
     
 # 🧠 주요 프로젝트
+
+</div>
+
+-  **RISC-V RV32I Single Cycle CPU Core 설계(https://github.com/MinJun-0508/Project-RISCV-RV32i)**:  
+    SystemVerilog를 사용하여 RISC-V의 RV32I Single Cycle CPU Core를 설계한 프로젝트입니다. R, I, S, B, U, J 타입의 명령어를 구현하고 확인하였습니다.
+
+
+
+<div align="center">
