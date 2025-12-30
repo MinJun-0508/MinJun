@@ -41,11 +41,11 @@
 
 </div>
 
--  **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/MinJun-0508/Project-RISCV-RV32i)**
+-  **[RISC-V RV32I Single Cycle CPU Core 설계](https://github.com/MinJun-0508/Project-RISCV-RV32i):**
     SystemVerilog를 사용하여 RISC-V의 RV32I Single Cycle CPU Core를 설계한 프로젝트입니다. R, I, S, B, U, J 타입의 명령어를 구현하고 확인하였습니다.
--  **[FPGA 기반 다기능 디지털 시계 설계](https://github.com/MinJun-0508/Project-Watch-StopWatch-Sensor)**
+-  **[FPGA 기반 다기능 디지털 시계 설계](https://github.com/MinJun-0508/Project-Watch-StopWatch-Sensor):**
     Verilog를 사용하여 시계, 스톱워치의 기능에 온습도, 거리측정 기능까지 추가하여 만든 다기능 디지털 시계입니다.
--  **[VGA 카메라 기반 표적추적 및 보안영상 시스템 설계](https://github.com/MinJun-0508/Project-VGA)**
+-  **[VGA 카메라 기반 표적추적 및 보안영상 시스템 설계](https://github.com/MinJun-0508/Project-VGA):**
     FPGA보드와 VGA를 활용하여 실시간으로 움직이는 물체를 포착하고 표적지를 구현하며, 동시에 표적영상을 암호화해 전송하는 시스템입니다.
 
 
