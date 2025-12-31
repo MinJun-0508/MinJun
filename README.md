@@ -47,7 +47,7 @@
     Verilog를 사용하여 시계, 스톱워치의 기능에 온습도, 거리측정 기능까지 추가하여 만든 다기능 디지털 시계입니다.
 -  **[VGA 카메라 기반 표적추적 및 보안영상 시스템 설계](https://github.com/MinJun-0508/Project-VGA)**:  
     FPGA보드와 VGA를 활용하여 실시간으로 움직이는 물체를 포착하고 표적지를 구현하며, 동시에 표적영상을 암호화해 전송하는 시스템입니다.
--  **[RISC-V RV32I Multi Cycle CPU Core 및 AMBA APB UART 설계](https://github.com/MinJun-0508/Project-RV32I-multicycle-APB-AMBA-Peripheral)**:
+-  **[RISC-V RV32I Multi Cycle CPU Core 및 AMBA APB UART 설계](https://github.com/MinJun-0508/Project-RV32I-multicycle-APB-AMBA-Peripheral)**:  
     RISC-V Multi Cycle CPU 코어를 설계하고, 버스 프로토콜인 AMBA APB를 통해 UART를 연동한 프로젝트입니다.
 
 
