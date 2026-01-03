@@ -27,6 +27,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Xilinx_Vivado-0078A0?style=for-the-badge&logo=xilinx&logoColor=white">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/STM32CUBEIDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
       </p>
     </td>
   </tr>
